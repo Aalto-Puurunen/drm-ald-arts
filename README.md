@@ -1,6 +1,6 @@
 # DRM-ALD-Arts — Diffusion–Reaction Model for Atomic Layer Deposition implemented by Arts
 
-
+<a href="https://doi.org/10.5281/zenodo.7844551"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7844551.svg" alt="DOI"></a>
 
 ## Project description
 
@@ -32,7 +32,7 @@ K. Arts, S. Deijkers, R. L. Puurunen, W. M. M. Kessels, and H. C. M. Knoops. **O
 
 Please cite as:
 
-K. Arts, **DRM-ALD-Arts — Diffusion–Reaction Model for Atomic Layer Deposition implemented by Arts**, (2023), *Github repository*, [https://github.com/Aalto-Puurunen/drm-ald-arts](https://github.com/Aalto-Puurunen/drm-ald-arts).
+K. Arts, **DRM-ALD-Arts — Diffusion–Reaction Model for Atomic Layer Deposition implemented by Arts**, (2023), *Github repository*, [https://github.com/Aalto-Puurunen/drm-ald-arts](https://github.com/Aalto-Puurunen/drm-ald-arts). [https://doi.org/10.5281/zenodo.7844551](https://doi.org/10.5281/zenodo.7844551).
 
 And the related article:
 
