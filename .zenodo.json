@@ -1,0 +1,33 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0003-4266-6559",
+            "affiliation": "Eindhoven University of Technology",
+            "name": "Arts, Karsten"
+        }
+    ],
+
+    "license": "MIT",
+
+    "title": "DRM-ALD-Arts — Diffusion–Reaction Model for Atomic Layer Deposition implemented by Arts",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1002/cvde.201106938",
+            "relation": "continues",
+            "resource_type": "publication-article"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.1021/acs.jpcc.9b08176",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
+    ],
+
+    "keywords": ["atomic layer deposition", "diffusion-reaction model", "conformality", "saturation profile", "thickness profile", "sticking probability", "surface recombination probability"]
+    
+}
+
+
