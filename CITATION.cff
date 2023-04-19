@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DRM-ALD-Arts — Diffusion–Reaction Model for Atomic Layer 
+  Deposition implemented by Arts
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - family-names: Arts
+    given-names: Karsten
+    orcid: 'https://orcid.org/0000-0003-4266-6559'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7844550
+    description: The concept DOI of the work.
+  - type: doi
+    value: 10.5281/zenodo.7844551
+    description: The versioned DOI for version 1.0.0 of the work.
+repository-code: 'https://github.com/Aalto-Puurunen/drm-ald-arts'
+abstract: >-
+  This is a MATLAB implementation of a diffusion-reaction model 
+  for simulating the conformality of atomic layer deposition 
+  in high-aspect-ratio structures.
+
+  This MATLAB script implements a diffusion-reaction model 
+  developed by Yanguas-Gil and Elam (Chem. Vap. Deposition 18, 
+  46-52 (2012), DOI: 10.1002/cvde.201106938). The model uses 
+  the Damkoler and precursor excess number to determine the 
+  temporal evolution of surface coverage inside a 
+  high-aspect-ratio structure as a function of distance from 
+  the structure entrance. While the model is flexible in terms 
+  of structure geometry, this implementation was created in 
+  the context of rectangular trenches. The implementation was 
+  written by Dr. Karsten Arts and published by Jänis Järvilehto 
+  by request of Prof. Riikka Puurunen.
+license: MIT
+version: 1.0.0
+date-released: '2023-04-19'
